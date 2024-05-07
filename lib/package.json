@@ -1,7 +1,7 @@
 {
   "name": "@imrandil/json_to_excel",
-  "version": "1.0.1",
-  "description": "A simple npm package for generating Excel files (xlsx) from JSON arrays.",
+  "version": "1.0.2",
+  "description": "A simple npm package for generating Excel files (xlsx) from JSON objects array.",
   "main": "index.js",
   "directories": {
     "lib": "lib",
