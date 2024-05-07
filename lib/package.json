@@ -1,5 +1,5 @@
 {
-  "name": "@imrandil/JsonToExcel",
+  "name": "@imrandil/json_to_excel",
   "version": "1.0.0",
   "description": "A simple npm package for generating Excel files (xlsx) from JSON arrays.",
   "main": "index.js",
