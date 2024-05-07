@@ -1,6 +1,6 @@
 # @imrandil/json_to_excel
 
-A simple npm package for generating Excel files (xlsx) from JSON arrays.
+A simple npm package for generating Excel files (xlsx) from JSON objects array.
 
 ## Installation
 
