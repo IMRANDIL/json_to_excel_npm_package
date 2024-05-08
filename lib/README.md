@@ -18,7 +18,7 @@ const options = {
   jsonFilePath: 'path/to/your/json/file.json',
   outputFileName: 'output.xlsx',
   batchSize: 100,
-  headers: ['Header1', 'Header2', 'Header3'],
+  headers: ['Column1', 'Column2', 'Column3'],
   sheetName: 'Sheet1'
 };
 
